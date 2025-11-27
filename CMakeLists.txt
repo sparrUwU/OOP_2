@@ -11,6 +11,8 @@ add_executable(
     twelve.cpp
 )
 
+enable_testing()
+
 add_executable(
     tests 
     tests.cpp 
